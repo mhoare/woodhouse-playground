@@ -1,6 +1,6 @@
 <?php
 
-class Router {
+final class Router {
 
     private $routes = array(
         'GET'=>array(),

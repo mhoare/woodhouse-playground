@@ -1,6 +1,6 @@
 <?php
 
-class Route {
+final class Route {
 
     /** @var string  */
 	private $regex;

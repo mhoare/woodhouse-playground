@@ -1,6 +1,6 @@
 <?php
 
-class Method {
+final class Method {
 	
 	/** @var string */
 	private $method;
